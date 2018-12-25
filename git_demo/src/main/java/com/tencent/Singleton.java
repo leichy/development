@@ -10,6 +10,7 @@ public class Singleton {
     }
 	
 	//private static Singleton singleton = new Singleton();
+	//private static Singleton singleton = new Singleton();
 
     private static volatile Singleton singleton = null;
 
